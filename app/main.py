@@ -1,11 +1,11 @@
-from db import SessionLocal
+from app.db import SessionLocal
 from sqlalchemy.orm import Session
 from fastapi import Depends, FastAPI, Header, HTTPException
 from dotenv import load_dotenv
 from apscheduler.schedulers.background import BackgroundScheduler
 import os
-from models import Traffic
-from github import fetch_and_store_all_repo_traffic
+from app.models import Traffic
+from app.github import fetch_and_store_all_repo_traffic
 from sqlalchemy import func
 
 app = FastAPI()

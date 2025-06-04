@@ -5,8 +5,8 @@ from sqlalchemy.orm import Session
 from sqlalchemy import func
 from dotenv import load_dotenv
 import os
-from models import Traffic
-from db import SessionLocal
+from app.models import Traffic
+from app.db import SessionLocal
 
 load_dotenv()
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
