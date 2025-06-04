@@ -7,8 +7,18 @@ import os
 from app.models import Traffic
 from app.github import fetch_and_store_all_repo_traffic
 from sqlalchemy import func
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+# Allow CORS for testing with frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def verify_api_key(github_traffic_api_key: str = Header(...)):
     PROJECT_KEY = os.getenv("PROJECT_KEY")
