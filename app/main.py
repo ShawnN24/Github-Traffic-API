@@ -56,7 +56,3 @@ def fetch_traffic(repo_name: str, db: Session = Depends(handle_db), _: str = Dep
         "total_uniques": total_uniques or 0,
         "last_updated": last_updated.isoformat() if last_updated else None
     }
-
-@app.on_event("shutdown")
-def shutdown_event():
-    scheduler.shutdown()
