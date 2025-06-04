@@ -1,8 +1,6 @@
 from app.db import SessionLocal
 from sqlalchemy.orm import Session
 from fastapi import Depends, FastAPI, Header, HTTPException
-from dotenv import load_dotenv
-from apscheduler.schedulers.background import BackgroundScheduler
 import os
 from app.models import Traffic
 from app.github import fetch_and_store_all_repo_traffic
@@ -25,22 +23,17 @@ def verify_api_key(github_traffic_api_key: str = Header(...)):
     if github_traffic_api_key != PROJECT_KEY:
         raise HTTPException(status_code=403, detail="Unauthorized")
 
-def scheduled_fetch_all():
-    db = SessionLocal()
-    try:
-        fetch_and_store_all_repo_traffic(db)
-    finally:
-        db.close()
-scheduler = BackgroundScheduler()
-scheduler.add_job(scheduled_fetch_all, 'cron', hour=1, minute=0)
-scheduler.start()
-
 def handle_db():
     db = SessionLocal()
     try:
         yield db
     finally:
         db.close()
+
+@app.post("/cron/fetch-all")
+def scheduled_fetch_all(db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):
+    fetch_and_store_all_repo_traffic(db)
+    return {"message": "Successful /cron/fetch-all"}
 
 @app.get("/traffic/{repo_name}")
 def fetch_traffic(repo_name: str, db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):

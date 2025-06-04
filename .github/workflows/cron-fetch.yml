@@ -1,0 +1,16 @@
+name: Trigger API Cron Job
+
+on:
+  schedule:
+    # Run at 1:00 AM Arizona time (MST = UTC-7)
+    - cron: '15 12 * * *'  # 8:00 UTC = 1:00 MST
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call /cron/fetch-all endpoint
+        run: |
+          curl -X POST https://github-traffic-api.onrender.com/cron/fetch-all \
+          -H "github-traffic-api-key: ${{ secrets.PROJECT_KEY }}"

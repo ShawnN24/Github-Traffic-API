@@ -2,7 +2,6 @@ from http.client import HTTPException
 import requests
 from datetime import datetime
 from sqlalchemy.orm import Session
-from sqlalchemy import func
 from dotenv import load_dotenv
 import os
 from app.models import Traffic
