@@ -3,7 +3,7 @@ name: Trigger API Cron Job
 on:
   schedule:
     # Run at 1:00 AM Arizona time (MST = UTC-7)
-    - cron: '15 12 * * *'  # 8:00 UTC = 1:00 MST
+    - cron: '20 12 * * *'  # 8:00 UTC = 1:00 MST
   workflow_dispatch:  # Allows manual run
 
 jobs:
