@@ -2,8 +2,8 @@ name: Trigger API Cron Job
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '0 8 * * *'  # 8:00 UTC = 1:00 MST
+    - cron: '*/5 * * * *' # Testing
 
 jobs:
   trigger:
