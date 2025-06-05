@@ -1,4 +1,4 @@
-name: Update Github-Traffic-API
+name: Fetch Latest Traffic Data
 
 on:
   schedule:

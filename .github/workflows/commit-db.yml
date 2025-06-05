@@ -1,4 +1,4 @@
-name: Fetch GitHub Traffic and Commit DB
+name: Commit Traffic Data to DB
 
 on:
   schedule:
