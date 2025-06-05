@@ -1,11 +1,9 @@
-from http.client import HTTPException
-import requests
-from datetime import datetime
 from sqlalchemy.orm import Session
 from dotenv import load_dotenv
 import os
+import requests
+from datetime import datetime
 from app.models import Traffic
-from app.db import SessionLocal
 
 load_dotenv()
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
@@ -56,7 +54,6 @@ def fetch_and_store_repo_traffic(repo_name: str, db: Session):
 
     db.commit()
 
-    # Return current 14-day summary
     total_views = sum(e.views for e in new_entries)
     total_uniques = sum(e.uniques for e in new_entries)
 

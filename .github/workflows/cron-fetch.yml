@@ -1,9 +1,9 @@
-name: Trigger API Cron Job
+name: Update Github-Traffic-API
 
 on:
   schedule:
     - cron: '0 8 * * *'  # 8:00 UTC = 1:00 MST
-    - cron: '*/5 * * * *' # Testing
+  workflow_dispatch:
 
 jobs:
   trigger:

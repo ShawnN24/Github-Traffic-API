@@ -1,15 +1,13 @@
-from app.db import SessionLocal
-from sqlalchemy.orm import Session
 from fastapi import Depends, FastAPI, Header, HTTPException
-import os
-from app.models import Traffic
-from app.github import fetch_and_store_all_repo_traffic
-from sqlalchemy import func
 from fastapi.middleware.cors import CORSMiddleware
+from sqlalchemy.orm import Session
+import os
+from app.db import SessionLocal
+from app.db import db_fetch_traffic, db_fetch_timeline
+from app.github import fetch_and_store_all_repo_traffic
 
 app = FastAPI()
 
-# Allow CORS for testing with frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -37,25 +35,8 @@ def scheduled_fetch_all(db: Session = Depends(handle_db), _: str = Depends(verif
 
 @app.get("/traffic/{repo_name}")
 def fetch_traffic(repo_name: str, db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):
-    total_views = (
-        db.query(func.sum(Traffic.views))
-        .filter(Traffic.repo == repo_name)
-        .scalar()
-    )
-    total_uniques = (
-        db.query(func.sum(Traffic.uniques))
-        .filter(Traffic.repo == repo_name)
-        .scalar()
-    )
-    last_updated = (
-        db.query(func.max(Traffic.last_updated))
-        .filter(Traffic.repo == repo_name)
-        .scalar()
-    )
+    return db_fetch_traffic(repo_name, db)
 
-    return {
-        "repo": repo_name,
-        "total_views": total_views or 0,
-        "total_uniques": total_uniques or 0,
-        "last_updated": last_updated.isoformat() if last_updated else None
-    }
+@app.get("/timeline/{repo_name}")
+def fetch_traffic(repo_name: str, db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):
+    return db_fetch_timeline(repo_name, db)
