@@ -17,8 +17,8 @@ jobs:
 
       - name: Set up Git config
         run: |
-          git config user.name "Shawn N"
-          git config user.email "79764274+ShawnN24@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit updated DB file
         run: |
