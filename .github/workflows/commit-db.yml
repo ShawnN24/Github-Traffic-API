@@ -1,4 +1,4 @@
-name: Commit Traffic Data to DB
+name: Cron Update Traffic Database
 
 on:
   schedule:
@@ -12,24 +12,8 @@ jobs:
     steps:
       - name: Call /cron/fetch-all endpoint
         run: |
-          curl -X 'POST' \
-            'https://github-traffic-api.onrender.com/cron/fetch-all' \
+          curl -X 'PUT' \
+            'https://github-traffic-api.onrender.com/cron/update-db' \
             -H 'accept: application/json' \
             -H 'github-traffic-api-key: ${{ secrets.PROJECT_KEY }}' \
-            -o traffic.db
-
-      - name: Checkout traffic-db-storage branch
-        uses: actions/checkout@v4
-        with:
-          ref: traffic-db-storage
-
-      - name: Set up Git config
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit updated DB file
-        run: |
-          git add traffic.db
-          git commit -m "Update traffic.db on schedule" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:traffic-db-storage
+            -d ''

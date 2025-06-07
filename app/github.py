@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import os
 import requests
 from datetime import datetime
+from git import Repo, GitCommandError
 from app.models import Traffic
 
 load_dotenv()
@@ -21,6 +22,51 @@ def fetch_repo_traffic(repo):
     views = requests.get(f"{base_url}/views", headers=headers).json()
     clones = requests.get(f"{base_url}/clones", headers=headers).json()
     return {"repo": repo, "views": views, "clones": clones, "timestamp": datetime.utcnow()}
+
+def sync_db_from_github():
+    db_path = "./traffic.db"
+    url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/Github-Traffic-API/traffic-db-storage/traffic.db"
+
+    print("Downloading latest traffic.db from GitHub...")
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(db_path, "wb") as f:
+            f.write(response.content)
+        print("traffic.db updated from GitHub")
+    else:
+        print(f"Failed to download traffic.db (status {response.status_code})")
+
+def commit_updated_db_to_github():
+    repo = Repo(".")
+    db_file = "traffic.db"
+    branch = "traffic-db-storage"
+
+    # Checkout traffic-db-storage branch
+    repo.git.fetch()
+    try:
+        repo.git.checkout(branch)
+    except GitCommandError:
+        print(f"Branch '{branch}' not found locally. Fetching from origin...")
+        repo.git.fetch("origin", branch)
+        repo.git.checkout(branch)
+
+    # Stage traffic.db
+    repo.git.add(db_file)
+    if not repo.is_dirty(untracked_files=False):
+        print("No changes to traffic.db. Nothing to commit.")
+        return
+
+    # Commit traffic.db updates
+    print("Committing traffic.db...")
+    repo.index.commit("Update traffic.db with latest traffic data")
+
+    # Set remote url for push
+    remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/Github-Traffic-API.git"
+    repo.git.remote("set-url", "origin", remote_url)
+
+    # Push branch changes
+    repo.git.push("origin", branch)
+    print("Push successful.")
 
 def fetch_and_store_all_repo_traffic(db: Session):
     for repo in get_repos():
