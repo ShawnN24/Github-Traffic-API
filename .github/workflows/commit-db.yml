@@ -2,7 +2,7 @@ name: Commit Traffic Data to DB
 
 on:
   schedule:
-    - cron: '30 8 * * *'  # 8:30 UTC = 1:30 AM Arizona time
+    - cron: '0 8 * * *'  # 8:30 UTC = 1:30 AM Arizona time
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Call /cron/fetch-all endpoint
+        run: |
+          curl -X 'POST' \
+            'https://github-traffic-api.onrender.com/cron/fetch-all' \
+            -H 'accept: application/json' \
+            -H 'github-traffic-api-key: ${{ secrets.PROJECT_KEY }}' \
+            -d ''
+
       - name: Checkout traffic-db-storage branch
         uses: actions/checkout@v4
         with:
