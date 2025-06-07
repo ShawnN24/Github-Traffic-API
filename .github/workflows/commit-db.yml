@@ -16,7 +16,7 @@ jobs:
             'https://github-traffic-api.onrender.com/cron/fetch-all' \
             -H 'accept: application/json' \
             -H 'github-traffic-api-key: ${{ secrets.PROJECT_KEY }}' \
-            -d ''
+            -o traffic.db
 
       - name: Checkout traffic-db-storage branch
         uses: actions/checkout@v4
