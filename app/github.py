@@ -24,7 +24,7 @@ def fetch_repo_traffic(repo):
     return {"repo": repo, "views": views, "clones": clones, "timestamp": datetime.utcnow()}
 
 def sync_db_from_github():
-    db_path = "./traffic.db"
+    db_path = "./cloned-repo/traffic.db"
     url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/Github-Traffic-API/traffic-db-storage/traffic.db"
 
     print("Downloading latest traffic.db from GitHub...")

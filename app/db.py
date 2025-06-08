@@ -4,7 +4,7 @@ from app.models import Base, Traffic
 import os
 
 
-DATABASE_URL = "sqlite:///traffic.db"
+DATABASE_URL = "sqlite:///cloned-repo/traffic.db"
 
 engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
