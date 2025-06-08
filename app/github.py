@@ -42,8 +42,8 @@ def commit_updated_db_to_github():
     branch = "traffic-db-storage"
 
     # Checkout traffic-db-storage branch
-    repo.git.fetch()
     try:
+        repo.git.fetch()
         repo.git.checkout(branch)
     except GitCommandError:
         print(f"Branch '{branch}' not found locally. Fetching from origin...")
@@ -62,7 +62,10 @@ def commit_updated_db_to_github():
 
     # Set remote url for push
     remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/Github-Traffic-API.git"
-    repo.git.remote("set-url", "origin", remote_url)
+    if "origin" not in [remote.name for remote in repo.remotes]:
+        repo.create_remote("origin", remote_url)
+    else:
+        repo.git.remote("set-url", "origin", remote_url)
 
     # Push branch changes
     repo.git.push("origin", branch)
