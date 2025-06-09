@@ -4,6 +4,8 @@ import os
 import requests
 from datetime import datetime
 from git import Repo, GitCommandError
+from tempfile import TemporaryDirectory
+import shutil
 from app.models import Traffic
 
 load_dotenv()
@@ -37,39 +39,29 @@ def sync_db_from_github():
         print(f"Failed to download traffic.db (status {response.status_code})")
 
 def commit_updated_db_to_github():
-    repo = Repo(".")
-    db_file = "traffic.db"
+    db_path = os.path.abspath("cloned-repo/traffic.db")
     branch = "traffic-db-storage"
 
-    # Checkout traffic-db-storage branch
-    try:
-        repo.git.fetch()
-        repo.git.checkout(branch)
-    except GitCommandError:
-        print(f"Branch '{branch}' not found locally. Fetching from origin...")
-        repo.git.fetch("origin", branch)
-        repo.git.checkout(branch)
+    with TemporaryDirectory(ignore_cleanup_errors=True) as tmpdir:
+        print(f"Cloning fresh copy into {tmpdir}...")
+        repo = Repo.clone_from(
+            f"https://{GITHUB_USERNAME}:{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/Github-Traffic-API.git",
+            tmpdir,
+            branch=branch
+        )
 
-    # Stage traffic.db
-    repo.git.add(db_file)
-    if not repo.is_dirty(untracked_files=False):
-        print("No changes to traffic.db. Nothing to commit.")
-        return
+        target_db = os.path.join(tmpdir, "traffic.db")
+        shutil.copy2(db_path, target_db)
 
-    # Commit traffic.db updates
-    print("Committing traffic.db...")
-    repo.index.commit("Update traffic.db with latest traffic data")
+        repo.index.add(["traffic.db"])
 
-    # Set remote url for push
-    remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/Github-Traffic-API.git"
-    if "origin" not in [remote.name for remote in repo.remotes]:
-        repo.create_remote("origin", remote_url)
-    else:
-        repo.git.remote("set-url", "origin", remote_url)
-
-    # Push branch changes
-    repo.git.push("origin", branch)
-    print("Push successful.")
+        if repo.is_dirty(untracked_files=False):
+            print("Committing updated traffic.db...")
+            repo.index.commit("Update traffic.db with latest traffic data")
+            repo.git.push("origin", branch)
+            print("Push successful.")
+        else:
+            print("No changes to traffic.db. Nothing to commit.")
 
 def fetch_and_store_all_repo_traffic(db: Session):
     for repo in get_repos():
