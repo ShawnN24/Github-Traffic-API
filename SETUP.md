@@ -68,7 +68,7 @@ Scroll down to Workflow permissions and select: Read and write permissions
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 ### **Install dependencies:**
@@ -80,6 +80,7 @@ pip install -r requirements.txt
 ### **Running Locally:**
 
 ```bash
+./start.sh
 uvicorn app.main:app --reload
 ```
 
