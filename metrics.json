@@ -1,0 +1,328 @@
+{
+  "AI-Resume-Parser": {
+    "traffic": {
+      "repo": "AI-Resume-Parser",
+      "total_views": 41,
+      "total_uniques": 11,
+      "last_updated": "2025-06-09T08:31:52.611740"
+    },
+    "timeline": [
+      {
+        "date": "2025-05-21",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-22",
+        "views": 5,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-26",
+        "views": 5,
+        "uniques": 2
+      },
+      {
+        "date": "2025-05-31",
+        "views": 3,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-01",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-02",
+        "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-03",
+        "views": 14,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-04",
+        "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-05",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-09",
+        "views": 1,
+        "uniques": 1
+      }
+    ]
+  },
+  "CaptionMate": {
+    "traffic": {
+      "repo": "CaptionMate",
+      "total_views": 9,
+      "total_uniques": 3,
+      "last_updated": "2025-06-08T23:26:10.413770"
+    },
+    "timeline": [
+      {
+        "date": "2025-05-26",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-27",
+        "views": 7,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-07",
+        "views": 1,
+        "uniques": 1
+      }
+    ]
+  },
+  "cse445_a4": {
+    "traffic": {
+      "repo": "cse445_a4",
+      "total_views": 0,
+      "total_uniques": 0,
+      "last_updated": null
+    },
+    "timeline": []
+  },
+  "Github-Traffic-API": {
+    "traffic": {
+      "repo": "Github-Traffic-API",
+      "total_views": 114,
+      "total_uniques": 10,
+      "last_updated": "2025-06-09T08:31:53.623985"
+    },
+    "timeline": [
+      {
+        "date": "2025-06-04",
+        "views": 13,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-05",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-06",
+        "views": 31,
+        "uniques": 3
+      },
+      {
+        "date": "2025-06-07",
+        "views": 44,
+        "uniques": 2
+      },
+      {
+        "date": "2025-06-08",
+        "views": 17,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-09",
+        "views": 8,
+        "uniques": 2
+      }
+    ]
+  },
+  "PoolHeaterScheduler": {
+    "traffic": {
+      "repo": "PoolHeaterScheduler",
+      "total_views": 0,
+      "total_uniques": 0,
+      "last_updated": null
+    },
+    "timeline": []
+  },
+  "PortFlow": {
+    "traffic": {
+      "repo": "PortFlow",
+      "total_views": 312,
+      "total_uniques": 39,
+      "last_updated": "2025-06-09T23:21:25.827356"
+    },
+    "timeline": [
+      {
+        "date": "2025-05-21",
+        "views": 40,
+        "uniques": 2
+      },
+      {
+        "date": "2025-05-22",
+        "views": 116,
+        "uniques": 8
+      },
+      {
+        "date": "2025-05-23",
+        "views": 13,
+        "uniques": 3
+      },
+      {
+        "date": "2025-05-24",
+        "views": 7,
+        "uniques": 4
+      },
+      {
+        "date": "2025-05-25",
+        "views": 22,
+        "uniques": 3
+      },
+      {
+        "date": "2025-05-26",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-27",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-28",
+        "views": 38,
+        "uniques": 3
+      },
+      {
+        "date": "2025-05-30",
+        "views": 14,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-31",
+        "views": 15,
+        "uniques": 2
+      },
+      {
+        "date": "2025-06-02",
+        "views": 3,
+        "uniques": 3
+      },
+      {
+        "date": "2025-06-04",
+        "views": 3,
+        "uniques": 2
+      },
+      {
+        "date": "2025-06-05",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-06",
+        "views": 26,
+        "uniques": 2
+      },
+      {
+        "date": "2025-06-07",
+        "views": 5,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-08",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-09",
+        "views": 3,
+        "uniques": 1
+      }
+    ]
+  },
+  "portflow-portfolio": {
+    "traffic": {
+      "repo": "portflow-portfolio",
+      "total_views": 71,
+      "total_uniques": 6,
+      "last_updated": "2025-06-08T23:26:13.475285"
+    },
+    "timeline": [
+      {
+        "date": "2025-05-21",
+        "views": 21,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-22",
+        "views": 41,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-26",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-30",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-31",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-06",
+        "views": 6,
+        "uniques": 1
+      }
+    ]
+  },
+  "ShawnPortfolio": {
+    "traffic": {
+      "repo": "ShawnPortfolio",
+      "total_views": 0,
+      "total_uniques": 0,
+      "last_updated": null
+    },
+    "timeline": []
+  },
+  "TabStack-ChromeExtension": {
+    "traffic": {
+      "repo": "TabStack-ChromeExtension",
+      "total_views": 13,
+      "total_uniques": 4,
+      "last_updated": "2025-06-08T23:26:14.556539"
+    },
+    "timeline": [
+      {
+        "date": "2025-05-30",
+        "views": 8,
+        "uniques": 1
+      },
+      {
+        "date": "2025-05-31",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-06",
+        "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-07",
+        "views": 2,
+        "uniques": 1
+      }
+    ]
+  },
+  "WeatherApp": {
+    "traffic": {
+      "repo": "WeatherApp",
+      "total_views": 0,
+      "total_uniques": 0,
+      "last_updated": null
+    },
+    "timeline": []
+  }
+}
