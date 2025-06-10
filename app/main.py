@@ -4,7 +4,7 @@ from sqlalchemy.orm import Session
 import os
 from app.db import SessionLocal
 from app.db import db_fetch_traffic, db_fetch_timeline
-from app.github import fetch_and_store_all_repo_traffic, sync_db_from_github, commit_updated_db_to_github
+from app.github import fetch_and_store_all_repo_traffic, fetch_and_store_all_metrics
 
 app = FastAPI()
 
@@ -29,10 +29,11 @@ def handle_db():
         db.close()
 
 @app.put("/cron/update-db")
-def scheduled_fetch_all(db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):
-    sync_db_from_github()
+def scheduled_update_all(db: Session = Depends(handle_db), _: str = Depends(verify_api_key)):
+    # Handle traffic.db
     fetch_and_store_all_repo_traffic(db)
-    commit_updated_db_to_github()
+    # Handle metrics.json
+    fetch_and_store_all_metrics(db)
     return {"message": "Successful /cron/update-db"}
 
 @app.get("/traffic/{repo_name}")

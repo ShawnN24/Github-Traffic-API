@@ -1,12 +1,14 @@
 from sqlalchemy.orm import Session
 from dotenv import load_dotenv
 import os
+import json
 import requests
 from datetime import datetime
 from git import Repo, GitCommandError
 from tempfile import TemporaryDirectory
 import shutil
 from app.models import Traffic
+from app.db import db_fetch_traffic, db_fetch_timeline
 
 load_dotenv()
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
@@ -63,9 +65,48 @@ def commit_updated_db_to_github():
         else:
             print("No changes to traffic.db. Nothing to commit.")
 
+def commit_updated_cache_to_github():
+    metrics_path = os.path.abspath("metrics.json")
+    branch = "cache"
+
+    with TemporaryDirectory(ignore_cleanup_errors=True) as tmpdir:
+        print(f"Cloning fresh copy into {tmpdir}...")
+        repo = Repo.clone_from(
+            f"https://{GITHUB_USERNAME}:{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/Github-Traffic-API.git",
+            tmpdir,
+            branch=branch
+        )
+
+        target_metrics_path = os.path.join(tmpdir, "metrics.json")
+        shutil.copy2(metrics_path, target_metrics_path)
+
+        repo.git.add("metrics.json")
+
+        if repo.is_dirty(untracked_files=False):
+            print("Committing updated metrics.json...")
+            repo.index.commit("Update metrics.json cache")
+            repo.git.push("origin", branch)
+            print("Push successful.")
+        else:
+            print("No changes to metrics.json. Nothing to commit.")
+
+def fetch_and_store_all_metrics(db: Session):
+    metrics = {}
+    for repo in get_repos():
+        metrics[repo] = {
+            "traffic": db_fetch_traffic(repo, db),
+            "timeline": db_fetch_timeline(repo, db)
+        }
+    with open("metrics.json", "w") as f:
+        json.dump(metrics, f, indent=2)
+    commit_updated_cache_to_github()
+    
+
 def fetch_and_store_all_repo_traffic(db: Session):
+    sync_db_from_github()
     for repo in get_repos():
         fetch_and_store_repo_traffic(repo, db)
+    commit_updated_db_to_github()
 
 def fetch_and_store_repo_traffic(repo_name: str, db: Session):
     traffic_data = fetch_repo_traffic(repo_name)

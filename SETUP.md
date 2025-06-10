@@ -1,8 +1,9 @@
 # Project Setup to Track your GitHub Traffic
 
-This project uses two branches:
+This project uses three branches:
 - **`main`**: Contains the core API and application code.
 - **`traffic-db-storage`**: Contains the up-to-date `traffic.db` SQLite database file.
+- **`cache`**: Contains the up-to-date `metrics.json` json data file for quick access.
 
 ---
 
@@ -38,6 +39,16 @@ touch traffic.db
 git add traffic.db
 git commit -m "Add traffic.db file to root"
 git push -u origin traffic-db-storage
+```
+
+### **Create branch `cache` with added data file**
+
+```bash
+git checkout -b cache
+touch metrics.json
+git add metrics.json
+git commit -m "Add metrics.json file to root"
+git push -u origin cache
 ```
 
 ### **Set up your environment variables on main:**
