@@ -101,9 +101,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 124,
-      "total_uniques": 11,
-      "last_updated": "2025-06-10T08:30:21.692907"
+      "total_views": 130,
+      "total_uniques": 12,
+      "last_updated": "2025-06-12T08:29:45.555465"
     },
     "timeline": [
       {
@@ -140,6 +140,11 @@
         "date": "2025-06-10",
         "views": 10,
         "uniques": 1
+      },
+      {
+        "date": "2025-06-11",
+        "views": 6,
+        "uniques": 1
       }
     ]
   },
@@ -155,9 +160,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 319,
-      "total_uniques": 41,
-      "last_updated": "2025-06-10T08:30:22.449596"
+      "total_views": 320,
+      "total_uniques": 42,
+      "last_updated": "2025-06-12T08:29:46.264747"
     },
     "timeline": [
       {
@@ -249,6 +254,11 @@
         "date": "2025-06-10",
         "views": 7,
         "uniques": 2
+      },
+      {
+        "date": "2025-06-11",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
