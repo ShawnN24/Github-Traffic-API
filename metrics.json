@@ -186,9 +186,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 331,
-      "total_uniques": 49,
-      "last_updated": "2025-06-28T08:29:33.942703"
+      "total_views": 333,
+      "total_uniques": 50,
+      "last_updated": "2025-06-29T08:28:48.937884"
     },
     "timeline": [
       {
@@ -319,6 +319,11 @@
       {
         "date": "2025-06-27",
         "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-28",
+        "views": 2,
         "uniques": 1
       }
     ]
