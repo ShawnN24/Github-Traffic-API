@@ -62,9 +62,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 24,
-      "total_uniques": 5,
-      "last_updated": "2025-06-15T08:26:03.057906"
+      "total_views": 25,
+      "total_uniques": 6,
+      "last_updated": "2025-06-30T08:32:15.782722"
     },
     "timeline": [
       {
@@ -89,6 +89,11 @@
       },
       {
         "date": "2025-06-14",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-06-29",
         "views": 1,
         "uniques": 1
       }
@@ -163,6 +168,26 @@
       },
       {
         "date": "2025-06-17",
+        "views": 2,
+        "uniques": 1
+      }
+    ]
+  },
+  "Neetcode_DSA-a-Day": {
+    "traffic": {
+      "repo": "Neetcode_DSA-a-Day",
+      "total_views": 12,
+      "total_uniques": 3,
+      "last_updated": "2025-06-30T08:32:16.928965"
+    },
+    "timeline": [
+      {
+        "date": "2025-06-29",
+        "views": 10,
+        "uniques": 2
+      },
+      {
+        "date": "2025-06-30",
         "views": 2,
         "uniques": 1
       }
