@@ -111,9 +111,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 142,
-      "total_uniques": 15,
-      "last_updated": "2025-06-17T08:32:13.880301"
+      "total_views": 145,
+      "total_uniques": 16,
+      "last_updated": "2025-07-05T08:28:32.730205"
     },
     "timeline": [
       {
@@ -170,15 +170,20 @@
         "date": "2025-06-17",
         "views": 2,
         "uniques": 1
+      },
+      {
+        "date": "2025-07-04",
+        "views": 3,
+        "uniques": 1
       }
     ]
   },
   "Neetcode_DSA-a-Day": {
     "traffic": {
       "repo": "Neetcode_DSA-a-Day",
-      "total_views": 47,
-      "total_uniques": 6,
-      "last_updated": "2025-07-04T08:29:59.204800"
+      "total_views": 51,
+      "total_uniques": 7,
+      "last_updated": "2025-07-05T08:28:33.091097"
     },
     "timeline": [
       {
@@ -204,6 +209,11 @@
       {
         "date": "2025-07-03",
         "views": 12,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-04",
+        "views": 4,
         "uniques": 1
       }
     ]
