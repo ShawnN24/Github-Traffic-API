@@ -62,9 +62,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 25,
-      "total_uniques": 6,
-      "last_updated": "2025-06-30T08:32:15.782722"
+      "total_views": 27,
+      "total_uniques": 8,
+      "last_updated": "2025-07-13T08:27:11.000221"
     },
     "timeline": [
       {
@@ -96,6 +96,16 @@
         "date": "2025-06-29",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-07-08",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-12",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
@@ -111,9 +121,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 145,
-      "total_uniques": 16,
-      "last_updated": "2025-07-05T08:28:32.730205"
+      "total_views": 148,
+      "total_uniques": 17,
+      "last_updated": "2025-07-13T08:27:11.690471"
     },
     "timeline": [
       {
@@ -175,15 +185,20 @@
         "date": "2025-07-04",
         "views": 3,
         "uniques": 1
+      },
+      {
+        "date": "2025-07-08",
+        "views": 3,
+        "uniques": 1
       }
     ]
   },
   "Neetcode_DSA-a-Day": {
     "traffic": {
       "repo": "Neetcode_DSA-a-Day",
-      "total_views": 57,
-      "total_uniques": 9,
-      "last_updated": "2025-07-07T08:31:41.022280"
+      "total_views": 75,
+      "total_uniques": 14,
+      "last_updated": "2025-07-13T08:27:12.147855"
     },
     "timeline": [
       {
@@ -224,6 +239,31 @@
       {
         "date": "2025-07-07",
         "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-08",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-09",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-10",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-11",
+        "views": 4,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-12",
+        "views": 2,
         "uniques": 1
       }
     ]
@@ -391,9 +431,9 @@
   "portflow-portfolio": {
     "traffic": {
       "repo": "portflow-portfolio",
-      "total_views": 71,
-      "total_uniques": 6,
-      "last_updated": "2025-06-08T23:26:13.475285"
+      "total_views": 72,
+      "total_uniques": 7,
+      "last_updated": "2025-07-13T08:27:13.197643"
     },
     "timeline": [
       {
@@ -424,6 +464,11 @@
       {
         "date": "2025-06-06",
         "views": 6,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-08",
+        "views": 1,
         "uniques": 1
       }
     ]
