@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 41,
-      "total_uniques": 11,
-      "last_updated": "2025-06-09T08:31:52.611740"
+      "total_views": 54,
+      "total_uniques": 12,
+      "last_updated": "2025-07-19T08:28:04.638595"
     },
     "timeline": [
       {
@@ -56,15 +56,20 @@
         "date": "2025-06-09",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-07-18",
+        "views": 13,
+        "uniques": 1
       }
     ]
   },
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 27,
-      "total_uniques": 8,
-      "last_updated": "2025-07-13T08:27:11.000221"
+      "total_views": 29,
+      "total_uniques": 10,
+      "last_updated": "2025-07-19T08:28:05.032245"
     },
     "timeline": [
       {
@@ -106,6 +111,11 @@
         "date": "2025-07-12",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-07-18",
+        "views": 2,
+        "uniques": 2
       }
     ]
   },
@@ -301,9 +311,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 333,
-      "total_uniques": 50,
-      "last_updated": "2025-06-29T08:28:48.937884"
+      "total_views": 337,
+      "total_uniques": 51,
+      "last_updated": "2025-07-19T08:28:06.932870"
     },
     "timeline": [
       {
@@ -439,6 +449,11 @@
       {
         "date": "2025-06-28",
         "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-07-18",
+        "views": 4,
         "uniques": 1
       }
     ]
