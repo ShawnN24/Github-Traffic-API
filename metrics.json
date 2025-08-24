@@ -256,9 +256,9 @@
   "Neetcode_DSA-a-Day": {
     "traffic": {
       "repo": "Neetcode_DSA-a-Day",
-      "total_views": 107,
-      "total_uniques": 26,
-      "last_updated": "2025-08-23T08:26:41.465704"
+      "total_views": 110,
+      "total_uniques": 27,
+      "last_updated": "2025-08-24T08:26:02.968144"
     },
     "timeline": [
       {
@@ -384,6 +384,11 @@
       {
         "date": "2025-08-22",
         "views": 6,
+        "uniques": 1
+      },
+      {
+        "date": "2025-08-23",
+        "views": 3,
         "uniques": 1
       }
     ]
