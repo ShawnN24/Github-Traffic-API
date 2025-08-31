@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 63,
-      "total_uniques": 16,
-      "last_updated": "2025-08-15T08:31:20.772356"
+      "total_views": 64,
+      "total_uniques": 17,
+      "last_updated": "2025-08-31T08:26:04.080620"
     },
     "timeline": [
       {
@@ -81,15 +81,20 @@
         "date": "2025-08-15",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-08-30",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 42,
-      "total_uniques": 16,
-      "last_updated": "2025-08-21T08:29:48.863149"
+      "total_views": 43,
+      "total_uniques": 17,
+      "last_updated": "2025-08-31T08:26:04.496296"
     },
     "timeline": [
       {
@@ -160,6 +165,11 @@
       {
         "date": "2025-08-21",
         "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-08-30",
+        "views": 1,
         "uniques": 1
       }
     ]
