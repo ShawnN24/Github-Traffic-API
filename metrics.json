@@ -92,9 +92,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 43,
-      "total_uniques": 17,
-      "last_updated": "2025-08-31T08:26:04.496296"
+      "total_views": 44,
+      "total_uniques": 18,
+      "last_updated": "2025-09-01T08:30:50.171878"
     },
     "timeline": [
       {
@@ -171,6 +171,11 @@
         "date": "2025-08-30",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-08-31",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
@@ -186,9 +191,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 151,
-      "total_uniques": 18,
-      "last_updated": "2025-08-23T08:26:41.083167"
+      "total_views": 158,
+      "total_uniques": 19,
+      "last_updated": "2025-09-01T08:30:50.942784"
     },
     "timeline": [
       {
@@ -259,6 +264,11 @@
       {
         "date": "2025-08-22",
         "views": 3,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-01",
+        "views": 7,
         "uniques": 1
       }
     ]
@@ -596,9 +606,9 @@
   "portflow-portfolio": {
     "traffic": {
       "repo": "portflow-portfolio",
-      "total_views": 72,
-      "total_uniques": 7,
-      "last_updated": "2025-07-13T08:27:13.197643"
+      "total_views": 74,
+      "total_uniques": 8,
+      "last_updated": "2025-09-01T08:30:52.519038"
     },
     "timeline": [
       {
@@ -634,6 +644,11 @@
       {
         "date": "2025-07-08",
         "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-01",
+        "views": 2,
         "uniques": 1
       }
     ]
