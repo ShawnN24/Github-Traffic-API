@@ -680,9 +680,9 @@
   "TabStack-ChromeExtension": {
     "traffic": {
       "repo": "TabStack-ChromeExtension",
-      "total_views": 13,
-      "total_uniques": 4,
-      "last_updated": "2025-06-08T23:26:14.556539"
+      "total_views": 14,
+      "total_uniques": 5,
+      "last_updated": "2025-09-04T08:28:13.437992"
     },
     "timeline": [
       {
@@ -703,6 +703,11 @@
       {
         "date": "2025-06-07",
         "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-03",
+        "views": 1,
         "uniques": 1
       }
     ]
