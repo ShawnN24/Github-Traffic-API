@@ -97,9 +97,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 45,
-      "total_uniques": 19,
-      "last_updated": "2025-09-03T08:28:31.886214"
+      "total_views": 46,
+      "total_uniques": 20,
+      "last_updated": "2025-09-18T08:27:22.001622"
     },
     "timeline": [
       {
@@ -184,6 +184,11 @@
       },
       {
         "date": "2025-09-02",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-18",
         "views": 1,
         "uniques": 1
       }
@@ -451,9 +456,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 372,
-      "total_uniques": 60,
-      "last_updated": "2025-09-10T08:29:27.201266"
+      "total_views": 374,
+      "total_uniques": 62,
+      "last_updated": "2025-09-18T08:27:24.027232"
     },
     "timeline": [
       {
@@ -638,6 +643,16 @@
       },
       {
         "date": "2025-09-10",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-17",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-18",
         "views": 1,
         "uniques": 1
       }
