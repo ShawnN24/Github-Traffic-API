@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 65,
-      "total_uniques": 18,
-      "last_updated": "2025-09-10T08:29:24.540091"
+      "total_views": 66,
+      "total_uniques": 19,
+      "last_updated": "2025-09-19T08:28:31.404793"
     },
     "timeline": [
       {
@@ -89,6 +89,11 @@
       },
       {
         "date": "2025-09-10",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-19",
         "views": 1,
         "uniques": 1
       }
@@ -206,9 +211,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 158,
-      "total_uniques": 19,
-      "last_updated": "2025-09-01T08:30:50.942784"
+      "total_views": 160,
+      "total_uniques": 20,
+      "last_updated": "2025-09-19T08:28:32.673085"
     },
     "timeline": [
       {
@@ -284,6 +289,11 @@
       {
         "date": "2025-09-01",
         "views": 7,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-19",
+        "views": 2,
         "uniques": 1
       }
     ]
@@ -456,9 +466,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 374,
-      "total_uniques": 62,
-      "last_updated": "2025-09-18T08:27:24.027232"
+      "total_views": 375,
+      "total_uniques": 63,
+      "last_updated": "2025-09-19T08:28:33.828788"
     },
     "timeline": [
       {
@@ -653,6 +663,11 @@
       },
       {
         "date": "2025-09-18",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-19",
         "views": 1,
         "uniques": 1
       }
