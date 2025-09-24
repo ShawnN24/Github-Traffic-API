@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 66,
-      "total_uniques": 19,
-      "last_updated": "2025-09-19T08:28:31.404793"
+      "total_views": 67,
+      "total_uniques": 20,
+      "last_updated": "2025-09-24T08:30:04.847131"
     },
     "timeline": [
       {
@@ -94,6 +94,11 @@
       },
       {
         "date": "2025-09-19",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-23",
         "views": 1,
         "uniques": 1
       }
@@ -311,9 +316,9 @@
   "Neetcode_DSA-a-Day": {
     "traffic": {
       "repo": "Neetcode_DSA-a-Day",
-      "total_views": 115,
-      "total_uniques": 30,
-      "last_updated": "2025-09-22T08:30:39.681425"
+      "total_views": 116,
+      "total_uniques": 31,
+      "last_updated": "2025-09-24T08:30:06.500099"
     },
     "timeline": [
       {
@@ -458,6 +463,11 @@
       },
       {
         "date": "2025-09-21",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-24",
         "views": 1,
         "uniques": 1
       }
