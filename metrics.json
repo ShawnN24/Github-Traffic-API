@@ -107,9 +107,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 53,
-      "total_uniques": 22,
-      "last_updated": "2025-09-23T08:27:55.528456"
+      "total_views": 54,
+      "total_uniques": 23,
+      "last_updated": "2025-09-25T08:29:10.715839"
     },
     "timeline": [
       {
@@ -209,6 +209,11 @@
       },
       {
         "date": "2025-09-23",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-09-24",
         "views": 1,
         "uniques": 1
       }
