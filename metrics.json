@@ -107,9 +107,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 54,
-      "total_uniques": 23,
-      "last_updated": "2025-09-25T08:29:10.715839"
+      "total_views": 56,
+      "total_uniques": 25,
+      "last_updated": "2025-09-29T08:32:35.407939"
     },
     "timeline": [
       {
@@ -216,6 +216,11 @@
         "date": "2025-09-24",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-09-28",
+        "views": 2,
+        "uniques": 2
       }
     ]
   },
@@ -771,6 +776,26 @@
       "last_updated": null
     },
     "timeline": []
+  },
+  "sunhacks2025": {
+    "traffic": {
+      "repo": "sunhacks2025",
+      "total_views": 33,
+      "total_uniques": 7,
+      "last_updated": "2025-09-29T08:32:38.705005"
+    },
+    "timeline": [
+      {
+        "date": "2025-09-27",
+        "views": 10,
+        "uniques": 2
+      },
+      {
+        "date": "2025-09-28",
+        "views": 23,
+        "uniques": 5
+      }
+    ]
   },
   "TabStack-ChromeExtension": {
     "traffic": {
