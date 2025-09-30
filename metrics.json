@@ -107,9 +107,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 56,
-      "total_uniques": 25,
-      "last_updated": "2025-09-29T08:32:35.407939"
+      "total_views": 57,
+      "total_uniques": 26,
+      "last_updated": "2025-09-30T08:31:06.471415"
     },
     "timeline": [
       {
@@ -221,6 +221,11 @@
         "date": "2025-09-28",
         "views": 2,
         "uniques": 2
+      },
+      {
+        "date": "2025-09-29",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
@@ -501,9 +506,9 @@
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 376,
-      "total_uniques": 64,
-      "last_updated": "2025-09-28T08:25:34.979770"
+      "total_views": 382,
+      "total_uniques": 66,
+      "last_updated": "2025-09-30T08:31:08.523304"
     },
     "timeline": [
       {
@@ -710,6 +715,11 @@
         "date": "2025-09-27",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2025-09-29",
+        "views": 6,
+        "uniques": 2
       }
     ]
   },
@@ -780,9 +790,9 @@
   "sunhacks2025": {
     "traffic": {
       "repo": "sunhacks2025",
-      "total_views": 33,
-      "total_uniques": 7,
-      "last_updated": "2025-09-29T08:32:38.705005"
+      "total_views": 69,
+      "total_uniques": 8,
+      "last_updated": "2025-09-30T08:31:09.669784"
     },
     "timeline": [
       {
@@ -794,6 +804,11 @@
         "date": "2025-09-28",
         "views": 23,
         "uniques": 5
+      },
+      {
+        "date": "2025-09-29",
+        "views": 36,
+        "uniques": 1
       }
     ]
   },
