@@ -836,9 +836,9 @@
   "sunhacks2025": {
     "traffic": {
       "repo": "sunhacks2025",
-      "total_views": 73,
-      "total_uniques": 11,
-      "last_updated": "2025-10-03T08:28:13.131766"
+      "total_views": 74,
+      "total_uniques": 12,
+      "last_updated": "2025-10-06T08:29:56.662663"
     },
     "timeline": [
       {
@@ -869,6 +869,11 @@
       {
         "date": "2025-10-02",
         "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-10-05",
+        "views": 1,
         "uniques": 1
       }
     ]
