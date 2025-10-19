@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 74,
-      "total_uniques": 22,
-      "last_updated": "2025-10-13T08:32:15.905115"
+      "total_views": 75,
+      "total_uniques": 23,
+      "last_updated": "2025-10-19T08:24:48.954652"
     },
     "timeline": [
       {
@@ -110,6 +110,11 @@
       {
         "date": "2025-10-12",
         "views": 5,
+        "uniques": 1
+      },
+      {
+        "date": "2025-10-18",
+        "views": 1,
         "uniques": 1
       }
     ]
