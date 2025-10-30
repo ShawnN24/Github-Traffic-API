@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 78,
-      "total_uniques": 25,
-      "last_updated": "2025-10-29T08:31:56.386575"
+      "total_views": 79,
+      "total_uniques": 26,
+      "last_updated": "2025-10-30T08:29:30.756557"
     },
     "timeline": [
       {
@@ -125,6 +125,11 @@
       {
         "date": "2025-10-28",
         "views": 2,
+        "uniques": 1
+      },
+      {
+        "date": "2025-10-30",
+        "views": 1,
         "uniques": 1
       }
     ]
@@ -292,9 +297,9 @@
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 165,
-      "total_uniques": 25,
-      "last_updated": "2025-10-28T08:31:24.895880"
+      "total_views": 166,
+      "total_uniques": 26,
+      "last_updated": "2025-10-30T08:29:31.954323"
     },
     "timeline": [
       {
@@ -396,6 +401,11 @@
         "date": "2025-10-27",
         "views": 2,
         "uniques": 2
+      },
+      {
+        "date": "2025-10-30",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
