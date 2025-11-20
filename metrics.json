@@ -137,9 +137,9 @@
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
-      "total_views": 63,
-      "total_uniques": 30,
-      "last_updated": "2025-10-18T08:26:08.214955"
+      "total_views": 73,
+      "total_uniques": 31,
+      "last_updated": "2025-11-20T08:32:11.658944"
     },
     "timeline": [
       {
@@ -275,6 +275,11 @@
       {
         "date": "2025-10-17",
         "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-11-20",
+        "views": 10,
         "uniques": 1
       }
     ]
@@ -901,9 +906,9 @@
   "sunhacks2025": {
     "traffic": {
       "repo": "sunhacks2025",
-      "total_views": 95,
-      "total_uniques": 14,
-      "last_updated": "2025-10-23T08:31:39.293124"
+      "total_views": 96,
+      "total_uniques": 15,
+      "last_updated": "2025-11-20T08:32:14.824324"
     },
     "timeline": [
       {
@@ -948,6 +953,11 @@
       },
       {
         "date": "2025-10-22",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2025-11-20",
         "views": 1,
         "uniques": 1
       }
