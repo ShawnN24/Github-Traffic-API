@@ -319,6 +319,21 @@
       }
     ]
   },
+  "CSE559-Drug-Prediction-Proj": {
+    "traffic": {
+      "repo": "CSE559-Drug-Prediction-Proj",
+      "total_views": 5,
+      "total_uniques": 3,
+      "last_updated": "2025-12-10T08:34:29.678814"
+    },
+    "timeline": [
+      {
+        "date": "2025-12-10",
+        "views": 5,
+        "uniques": 3
+      }
+    ]
+  },
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
