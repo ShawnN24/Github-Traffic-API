@@ -404,7 +404,7 @@
       "repo": "CaptionMate",
       "total_views": 75,
       "total_uniques": 33,
-      "last_updated": "2026-02-07T08:37:28.395775"
+      "last_updated": "2026-02-09T08:58:32.277600"
     },
     "timeline": [
       {
@@ -816,6 +816,16 @@
         "date": "2026-02-06",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1079,7 +1089,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 5,
       "total_uniques": 3,
-      "last_updated": "2026-02-07T08:37:29.633017"
+      "last_updated": "2026-02-09T08:58:33.552723"
     },
     "timeline": [
       {
@@ -1356,6 +1366,16 @@
         "date": "2026-02-06",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1364,7 +1384,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 179,
       "total_uniques": 28,
-      "last_updated": "2026-02-07T08:37:30.253026"
+      "last_updated": "2026-02-09T08:58:34.552111"
     },
     "timeline": [
       {
@@ -1744,6 +1764,16 @@
       },
       {
         "date": "2026-02-06",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
         "views": 0,
         "uniques": 0
       }
@@ -2169,7 +2199,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-07T08:37:31.461844"
+      "last_updated": "2026-02-09T08:58:36.274758"
     },
     "timeline": [
       {
@@ -2446,6 +2476,16 @@
         "date": "2026-02-06",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2454,7 +2494,7 @@
       "repo": "PortFlow",
       "total_views": 399,
       "total_uniques": 77,
-      "last_updated": "2026-02-07T08:37:32.101375"
+      "last_updated": "2026-02-09T08:58:36.887349"
     },
     "timeline": [
       {
@@ -2971,6 +3011,16 @@
         "date": "2026-02-06",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3279,7 +3329,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-02-07T08:37:33.263508"
+      "last_updated": "2026-02-09T08:58:38.231536"
     },
     "timeline": [
       {
@@ -3549,6 +3599,11 @@
       },
       {
         "date": "2026-02-06",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
         "views": 0,
         "uniques": 0
       }
@@ -3879,7 +3934,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 14,
       "total_uniques": 5,
-      "last_updated": "2026-02-07T08:37:34.507342"
+      "last_updated": "2026-02-09T08:58:39.577541"
     },
     "timeline": [
       {
@@ -4169,6 +4224,16 @@
       },
       {
         "date": "2026-02-06",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-07",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-08",
         "views": 0,
         "uniques": 0
       }
