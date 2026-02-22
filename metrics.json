@@ -4,7 +4,7 @@
       "repo": "AI-Resume-Parser",
       "total_views": 86,
       "total_uniques": 31,
-      "last_updated": "2026-02-21T08:36:00.370534"
+      "last_updated": "2026-02-22T08:38:11.626754"
     },
     "timeline": [
       {
@@ -496,6 +496,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -504,7 +509,7 @@
       "repo": "AWS-Model-Comparison-Tool",
       "total_views": 10,
       "total_uniques": 4,
-      "last_updated": "2026-02-21T08:36:00.858825"
+      "last_updated": "2026-02-22T08:38:12.233941"
     },
     "timeline": [
       {
@@ -611,6 +616,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -619,7 +629,7 @@
       "repo": "CaptionMate",
       "total_views": 75,
       "total_uniques": 33,
-      "last_updated": "2026-02-21T08:36:01.232360"
+      "last_updated": "2026-02-22T08:38:12.670810"
     },
     "timeline": [
       {
@@ -1101,6 +1111,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1109,7 +1124,7 @@
       "repo": "cse445_a4",
       "total_views": 1,
       "total_uniques": 1,
-      "last_updated": "2026-02-21T08:36:01.622381"
+      "last_updated": "2026-02-22T08:38:13.244182"
     },
     "timeline": [
       {
@@ -1456,6 +1471,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1464,7 +1484,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 5,
       "total_uniques": 3,
-      "last_updated": "2026-02-21T08:36:01.942702"
+      "last_updated": "2026-02-22T08:38:13.698184"
     },
     "timeline": [
       {
@@ -1811,15 +1831,100 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
+      }
+    ]
+  },
+  "docic": {
+    "traffic": {
+      "repo": "docic",
+      "total_views": 0,
+      "total_uniques": 0,
+      "last_updated": "2026-02-22T08:38:14.293115"
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-09",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-10",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-11",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-12",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-13",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-14",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-15",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-17",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-18",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-19",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-20",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
   "Github-Traffic-API": {
     "traffic": {
       "repo": "Github-Traffic-API",
-      "total_views": 180,
-      "total_uniques": 29,
-      "last_updated": "2026-02-21T08:36:02.288061"
+      "total_views": 182,
+      "total_uniques": 30,
+      "last_updated": "2026-02-22T08:38:14.732887"
     },
     "timeline": [
       {
@@ -2271,6 +2376,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 2,
+        "uniques": 1
       }
     ]
   },
@@ -2279,7 +2389,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-02-21T08:36:02.628257"
+      "last_updated": "2026-02-22T08:38:15.193944"
     },
     "timeline": [
       {
@@ -2781,6 +2891,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2789,7 +2904,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-21T08:36:03.002632"
+      "last_updated": "2026-02-22T08:38:15.600605"
     },
     "timeline": [
       {
@@ -3136,6 +3251,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3144,7 +3264,7 @@
       "repo": "PortFlow",
       "total_views": 399,
       "total_uniques": 77,
-      "last_updated": "2026-02-21T08:36:03.400735"
+      "last_updated": "2026-02-22T08:38:15.964807"
     },
     "timeline": [
       {
@@ -3731,6 +3851,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3739,7 +3864,7 @@
       "repo": "portflow-portfolio",
       "total_views": 79,
       "total_uniques": 11,
-      "last_updated": "2026-02-21T08:36:03.787235"
+      "last_updated": "2026-02-22T08:38:16.416724"
     },
     "timeline": [
       {
@@ -4126,6 +4251,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4134,7 +4264,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-02-21T08:36:04.169469"
+      "last_updated": "2026-02-22T08:38:16.781002"
     },
     "timeline": [
       {
@@ -4476,6 +4606,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4484,7 +4619,7 @@
       "repo": "sunhacks2025",
       "total_views": 98,
       "total_uniques": 17,
-      "last_updated": "2026-02-21T08:36:04.567202"
+      "last_updated": "2026-02-22T08:38:17.169097"
     },
     "timeline": [
       {
@@ -4876,6 +5011,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4884,7 +5024,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 16,
       "total_uniques": 6,
-      "last_updated": "2026-02-21T08:36:04.978722"
+      "last_updated": "2026-02-22T08:38:17.512660"
     },
     "timeline": [
       {
@@ -5246,6 +5386,11 @@
         "date": "2026-02-20",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5254,7 +5399,7 @@
       "repo": "WeatherApp",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-21T08:36:05.359474"
+      "last_updated": "2026-02-22T08:38:17.924813"
     },
     "timeline": [
       {
@@ -5599,6 +5744,11 @@
       },
       {
         "date": "2026-02-20",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-21",
         "views": 0,
         "uniques": 0
       }
