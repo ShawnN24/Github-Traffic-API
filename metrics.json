@@ -4,7 +4,7 @@
       "repo": "AI-Resume-Parser",
       "total_views": 86,
       "total_uniques": 31,
-      "last_updated": "2026-02-22T08:38:11.626754"
+      "last_updated": "2026-02-23T08:55:24.546522"
     },
     "timeline": [
       {
@@ -501,6 +501,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -509,7 +514,7 @@
       "repo": "AWS-Model-Comparison-Tool",
       "total_views": 10,
       "total_uniques": 4,
-      "last_updated": "2026-02-22T08:38:12.233941"
+      "last_updated": "2026-02-23T08:55:25.079057"
     },
     "timeline": [
       {
@@ -621,6 +626,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -629,7 +639,7 @@
       "repo": "CaptionMate",
       "total_views": 75,
       "total_uniques": 33,
-      "last_updated": "2026-02-22T08:38:12.670810"
+      "last_updated": "2026-02-23T08:55:25.535948"
     },
     "timeline": [
       {
@@ -1116,6 +1126,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1124,7 +1139,7 @@
       "repo": "cse445_a4",
       "total_views": 1,
       "total_uniques": 1,
-      "last_updated": "2026-02-22T08:38:13.244182"
+      "last_updated": "2026-02-23T08:55:25.946607"
     },
     "timeline": [
       {
@@ -1476,6 +1491,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1484,7 +1504,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 5,
       "total_uniques": 3,
-      "last_updated": "2026-02-22T08:38:13.698184"
+      "last_updated": "2026-02-23T08:55:26.317783"
     },
     "timeline": [
       {
@@ -1836,15 +1856,20 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
   "docic": {
     "traffic": {
       "repo": "docic",
-      "total_views": 0,
-      "total_uniques": 0,
-      "last_updated": "2026-02-22T08:38:14.293115"
+      "total_views": 12,
+      "total_uniques": 2,
+      "last_updated": "2026-02-23T08:55:26.707088"
     },
     "timeline": [
       {
@@ -1916,6 +1941,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 12,
+        "uniques": 2
       }
     ]
   },
@@ -1924,7 +1954,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 182,
       "total_uniques": 30,
-      "last_updated": "2026-02-22T08:38:14.732887"
+      "last_updated": "2026-02-23T08:55:27.114896"
     },
     "timeline": [
       {
@@ -2381,6 +2411,11 @@
         "date": "2026-02-21",
         "views": 2,
         "uniques": 1
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2389,7 +2424,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-02-22T08:38:15.193944"
+      "last_updated": "2026-02-23T08:55:27.577667"
     },
     "timeline": [
       {
@@ -2896,6 +2931,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2904,7 +2944,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-22T08:38:15.600605"
+      "last_updated": "2026-02-23T08:55:27.968455"
     },
     "timeline": [
       {
@@ -3256,15 +3296,20 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
   "PortFlow": {
     "traffic": {
       "repo": "PortFlow",
-      "total_views": 399,
-      "total_uniques": 77,
-      "last_updated": "2026-02-22T08:38:15.964807"
+      "total_views": 424,
+      "total_uniques": 78,
+      "last_updated": "2026-02-23T08:55:28.367300"
     },
     "timeline": [
       {
@@ -3856,6 +3901,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 25,
+        "uniques": 1
       }
     ]
   },
@@ -3864,7 +3914,7 @@
       "repo": "portflow-portfolio",
       "total_views": 79,
       "total_uniques": 11,
-      "last_updated": "2026-02-22T08:38:16.416724"
+      "last_updated": "2026-02-23T08:55:28.725624"
     },
     "timeline": [
       {
@@ -4256,6 +4306,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4264,7 +4319,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-02-22T08:38:16.781002"
+      "last_updated": "2026-02-23T08:55:29.124372"
     },
     "timeline": [
       {
@@ -4611,6 +4666,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4619,7 +4679,7 @@
       "repo": "sunhacks2025",
       "total_views": 98,
       "total_uniques": 17,
-      "last_updated": "2026-02-22T08:38:17.169097"
+      "last_updated": "2026-02-23T08:55:29.465884"
     },
     "timeline": [
       {
@@ -5016,6 +5076,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5024,7 +5089,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 16,
       "total_uniques": 6,
-      "last_updated": "2026-02-22T08:38:17.512660"
+      "last_updated": "2026-02-23T08:55:29.862580"
     },
     "timeline": [
       {
@@ -5391,6 +5456,11 @@
         "date": "2026-02-21",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5399,7 +5469,7 @@
       "repo": "WeatherApp",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-22T08:38:17.924813"
+      "last_updated": "2026-02-23T08:55:30.238354"
     },
     "timeline": [
       {
@@ -5749,6 +5819,11 @@
       },
       {
         "date": "2026-02-21",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-22",
         "views": 0,
         "uniques": 0
       }
