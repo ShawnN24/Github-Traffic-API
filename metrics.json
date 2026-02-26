@@ -514,147 +514,12 @@
       }
     ]
   },
-  "AWS-Model-Comparison-Tool": {
-    "traffic": {
-      "repo": "AWS-Model-Comparison-Tool",
-      "total_views": 10,
-      "total_uniques": 4,
-      "last_updated": "2026-02-25T08:54:15.122389"
-    },
-    "timeline": [
-      {
-        "date": "2026-01-31",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-01",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-02",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-03",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-04",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-05",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-06",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-07",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-08",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-09",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-10",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-11",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-12",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-13",
-        "views": 1,
-        "uniques": 1
-      },
-      {
-        "date": "2026-02-14",
-        "views": 2,
-        "uniques": 1
-      },
-      {
-        "date": "2026-02-15",
-        "views": 7,
-        "uniques": 2
-      },
-      {
-        "date": "2026-02-16",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-17",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-18",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-19",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-20",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-21",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-22",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-23",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-24",
-        "views": 0,
-        "uniques": 0
-      }
-    ]
-  },
   "CaptionMate": {
     "traffic": {
       "repo": "CaptionMate",
       "total_views": 75,
       "total_uniques": 33,
-      "last_updated": "2026-02-25T08:54:15.775224"
+      "last_updated": "2026-02-26T08:54:29.244886"
     },
     "timeline": [
       {
@@ -1156,6 +1021,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1164,7 +1034,7 @@
       "repo": "cse445_a4",
       "total_views": 1,
       "total_uniques": 1,
-      "last_updated": "2026-02-25T08:54:16.372486"
+      "last_updated": "2026-02-26T08:54:29.844322"
     },
     "timeline": [
       {
@@ -1531,6 +1401,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1539,7 +1414,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 5,
       "total_uniques": 3,
-      "last_updated": "2026-02-24T08:55:49.741988"
+      "last_updated": "2026-02-26T08:54:30.500379"
     },
     "timeline": [
       {
@@ -1901,99 +1776,14 @@
         "date": "2026-02-23",
         "views": 0,
         "uniques": 0
-      }
-    ]
-  },
-  "docic": {
-    "traffic": {
-      "repo": "docic",
-      "total_views": 12,
-      "total_uniques": 2,
-      "last_updated": "2026-02-25T08:54:17.716452"
-    },
-    "timeline": [
-      {
-        "date": "2026-02-08",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-09",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-10",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-11",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-12",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-13",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-14",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-15",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-16",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-17",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-18",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-19",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-20",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-21",
-        "views": 0,
-        "uniques": 0
-      },
-      {
-        "date": "2026-02-22",
-        "views": 12,
-        "uniques": 2
-      },
-      {
-        "date": "2026-02-23",
-        "views": 0,
-        "uniques": 0
       },
       {
         "date": "2026-02-24",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
         "views": 0,
         "uniques": 0
       }
@@ -2004,7 +1794,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 182,
       "total_uniques": 30,
-      "last_updated": "2026-02-25T08:54:18.341630"
+      "last_updated": "2026-02-26T08:54:31.175624"
     },
     "timeline": [
       {
@@ -2476,6 +2266,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2484,7 +2279,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-02-25T08:54:18.940173"
+      "last_updated": "2026-02-26T08:54:31.915582"
     },
     "timeline": [
       {
@@ -3006,6 +2801,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3014,7 +2814,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-25T08:54:19.493454"
+      "last_updated": "2026-02-26T08:54:32.541485"
     },
     "timeline": [
       {
@@ -3381,6 +3181,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3389,7 +3194,7 @@
       "repo": "PortFlow",
       "total_views": 424,
       "total_uniques": 78,
-      "last_updated": "2026-02-25T08:54:20.070831"
+      "last_updated": "2026-02-26T08:54:33.192420"
     },
     "timeline": [
       {
@@ -3996,6 +3801,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4414,7 +4224,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-02-25T08:54:21.356924"
+      "last_updated": "2026-02-26T08:54:34.474313"
     },
     "timeline": [
       {
@@ -4774,6 +4584,11 @@
       },
       {
         "date": "2026-02-24",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
         "views": 0,
         "uniques": 0
       }
@@ -5199,7 +5014,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 16,
       "total_uniques": 6,
-      "last_updated": "2026-02-25T08:54:22.676109"
+      "last_updated": "2026-02-26T08:54:35.790080"
     },
     "timeline": [
       {
@@ -5581,6 +5396,11 @@
         "date": "2026-02-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5589,7 +5409,7 @@
       "repo": "WeatherApp",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-02-25T08:54:23.318581"
+      "last_updated": "2026-02-26T08:54:36.403633"
     },
     "timeline": [
       {
@@ -5954,6 +5774,11 @@
       },
       {
         "date": "2026-02-24",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-02-25",
         "views": 0,
         "uniques": 0
       }
