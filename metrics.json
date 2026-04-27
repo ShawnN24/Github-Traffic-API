@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 95,
-      "total_uniques": 33,
-      "last_updated": "2026-04-25T08:57:08.328473"
+      "total_views": 96,
+      "total_uniques": 34,
+      "last_updated": "2026-04-27T10:21:11.981006"
     },
     "timeline": [
       {
@@ -811,6 +811,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 1,
+        "uniques": 1
       }
     ]
   },
@@ -819,7 +829,7 @@
       "repo": "CaptionMate",
       "total_views": 78,
       "total_uniques": 35,
-      "last_updated": "2026-04-25T08:57:08.656559"
+      "last_updated": "2026-04-27T10:21:12.369386"
     },
     "timeline": [
       {
@@ -1616,6 +1626,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1624,7 +1644,7 @@
       "repo": "cse445_a4",
       "total_views": 2,
       "total_uniques": 2,
-      "last_updated": "2026-04-25T08:57:08.990679"
+      "last_updated": "2026-04-27T10:21:12.773356"
     },
     "timeline": [
       {
@@ -2286,6 +2306,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2294,7 +2324,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 7,
       "total_uniques": 4,
-      "last_updated": "2026-04-25T08:57:09.308419"
+      "last_updated": "2026-04-27T10:21:13.170866"
     },
     "timeline": [
       {
@@ -2956,6 +2986,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2964,7 +3004,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 182,
       "total_uniques": 30,
-      "last_updated": "2026-04-25T08:57:09.656922"
+      "last_updated": "2026-04-27T10:21:13.536577"
     },
     "timeline": [
       {
@@ -3731,15 +3771,25 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
   "KIROHACKS2026": {
     "traffic": {
       "repo": "KIROHACKS2026",
-      "total_views": 12,
-      "total_uniques": 2,
-      "last_updated": "2026-04-25T08:57:09.996422"
+      "total_views": 110,
+      "total_uniques": 5,
+      "last_updated": "2026-04-27T10:21:13.906363"
     },
     "timeline": [
       {
@@ -3811,6 +3861,16 @@
         "date": "2026-04-24",
         "views": 12,
         "uniques": 2
+      },
+      {
+        "date": "2026-04-25",
+        "views": 87,
+        "uniques": 2
+      },
+      {
+        "date": "2026-04-26",
+        "views": 11,
+        "uniques": 1
       }
     ]
   },
@@ -3819,7 +3879,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-04-25T08:57:10.315469"
+      "last_updated": "2026-04-27T10:21:14.366266"
     },
     "timeline": [
       {
@@ -4636,6 +4696,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4644,7 +4714,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-04-25T08:57:10.643658"
+      "last_updated": "2026-04-27T10:21:14.754548"
     },
     "timeline": [
       {
@@ -5306,6 +5376,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5314,7 +5394,7 @@
       "repo": "PortFlow",
       "total_views": 449,
       "total_uniques": 89,
-      "last_updated": "2026-04-25T08:57:10.972966"
+      "last_updated": "2026-04-27T10:21:15.161413"
     },
     "timeline": [
       {
@@ -6216,6 +6296,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -6224,7 +6314,7 @@
       "repo": "portflow-portfolio",
       "total_views": 79,
       "total_uniques": 11,
-      "last_updated": "2026-04-25T08:57:11.300526"
+      "last_updated": "2026-04-27T10:21:15.511690"
     },
     "timeline": [
       {
@@ -6926,6 +7016,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -6934,7 +7034,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-04-25T08:57:11.655978"
+      "last_updated": "2026-04-27T10:21:15.923878"
     },
     "timeline": [
       {
@@ -7591,6 +7691,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -7599,7 +7709,7 @@
       "repo": "sunhacks2025",
       "total_views": 101,
       "total_uniques": 20,
-      "last_updated": "2026-04-25T08:57:11.983028"
+      "last_updated": "2026-04-27T10:21:16.350497"
     },
     "timeline": [
       {
@@ -8306,6 +8416,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -8314,7 +8434,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 16,
       "total_uniques": 6,
-      "last_updated": "2026-04-25T08:57:12.332052"
+      "last_updated": "2026-04-27T10:21:16.834628"
     },
     "timeline": [
       {
@@ -8991,6 +9111,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -8999,7 +9129,7 @@
       "repo": "trustmed-ai",
       "total_views": 321,
       "total_uniques": 15,
-      "last_updated": "2026-04-25T08:57:12.657233"
+      "last_updated": "2026-04-27T10:21:17.226669"
     },
     "timeline": [
       {
@@ -9131,6 +9261,16 @@
         "date": "2026-04-24",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -9139,7 +9279,7 @@
       "repo": "WeatherApp",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-04-25T08:57:12.984083"
+      "last_updated": "2026-04-27T10:21:17.877018"
     },
     "timeline": [
       {
@@ -9799,6 +9939,16 @@
       },
       {
         "date": "2026-04-24",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-25",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-26",
         "views": 0,
         "uniques": 0
       }
