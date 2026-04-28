@@ -4,7 +4,7 @@
       "repo": "AI-Resume-Parser",
       "total_views": 96,
       "total_uniques": 34,
-      "last_updated": "2026-04-27T10:21:11.981006"
+      "last_updated": "2026-04-28T10:18:28.057737"
     },
     "timeline": [
       {
@@ -821,6 +821,11 @@
         "date": "2026-04-26",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -829,7 +834,7 @@
       "repo": "CaptionMate",
       "total_views": 78,
       "total_uniques": 35,
-      "last_updated": "2026-04-27T10:21:12.369386"
+      "last_updated": "2026-04-28T10:18:28.452587"
     },
     "timeline": [
       {
@@ -1636,6 +1641,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1644,7 +1654,7 @@
       "repo": "cse445_a4",
       "total_views": 2,
       "total_uniques": 2,
-      "last_updated": "2026-04-27T10:21:12.773356"
+      "last_updated": "2026-04-28T10:18:28.901625"
     },
     "timeline": [
       {
@@ -2316,6 +2326,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -2324,7 +2339,7 @@
       "repo": "CSE559-Drug-Prediction-Proj",
       "total_views": 7,
       "total_uniques": 4,
-      "last_updated": "2026-04-27T10:21:13.170866"
+      "last_updated": "2026-04-28T10:18:29.317914"
     },
     "timeline": [
       {
@@ -2996,6 +3011,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -3004,7 +3024,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 182,
       "total_uniques": 30,
-      "last_updated": "2026-04-27T10:21:13.536577"
+      "last_updated": "2026-04-28T10:18:29.704670"
     },
     "timeline": [
       {
@@ -3781,15 +3801,20 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
   "KIROHACKS2026": {
     "traffic": {
       "repo": "KIROHACKS2026",
-      "total_views": 110,
-      "total_uniques": 5,
-      "last_updated": "2026-04-27T10:21:13.906363"
+      "total_views": 120,
+      "total_uniques": 8,
+      "last_updated": "2026-04-28T10:18:30.200728"
     },
     "timeline": [
       {
@@ -3871,6 +3896,11 @@
         "date": "2026-04-26",
         "views": 11,
         "uniques": 1
+      },
+      {
+        "date": "2026-04-27",
+        "views": 10,
+        "uniques": 3
       }
     ]
   },
@@ -3879,7 +3909,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-04-27T10:21:14.366266"
+      "last_updated": "2026-04-28T10:18:30.608223"
     },
     "timeline": [
       {
@@ -4706,6 +4736,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -4714,7 +4749,7 @@
       "repo": "PoolHeaterScheduler",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-04-27T10:21:14.754548"
+      "last_updated": "2026-04-28T10:18:31.020428"
     },
     "timeline": [
       {
@@ -5386,6 +5421,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5394,7 +5434,7 @@
       "repo": "PortFlow",
       "total_views": 449,
       "total_uniques": 89,
-      "last_updated": "2026-04-27T10:21:15.161413"
+      "last_updated": "2026-04-28T10:18:31.420271"
     },
     "timeline": [
       {
@@ -6306,6 +6346,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -6314,7 +6359,7 @@
       "repo": "portflow-portfolio",
       "total_views": 79,
       "total_uniques": 11,
-      "last_updated": "2026-04-27T10:21:15.511690"
+      "last_updated": "2026-04-28T10:18:31.822885"
     },
     "timeline": [
       {
@@ -7026,6 +7071,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -7034,7 +7084,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-04-27T10:21:15.923878"
+      "last_updated": "2026-04-28T10:18:32.202583"
     },
     "timeline": [
       {
@@ -7701,6 +7751,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -7709,7 +7764,7 @@
       "repo": "sunhacks2025",
       "total_views": 101,
       "total_uniques": 20,
-      "last_updated": "2026-04-27T10:21:16.350497"
+      "last_updated": "2026-04-28T10:18:32.614441"
     },
     "timeline": [
       {
@@ -8426,6 +8481,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -8434,7 +8494,7 @@
       "repo": "TabStack-ChromeExtension",
       "total_views": 16,
       "total_uniques": 6,
-      "last_updated": "2026-04-27T10:21:16.834628"
+      "last_updated": "2026-04-28T10:18:33.022319"
     },
     "timeline": [
       {
@@ -9121,6 +9181,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -9129,7 +9194,7 @@
       "repo": "trustmed-ai",
       "total_views": 321,
       "total_uniques": 15,
-      "last_updated": "2026-04-27T10:21:17.226669"
+      "last_updated": "2026-04-28T10:18:33.436769"
     },
     "timeline": [
       {
@@ -9271,6 +9336,11 @@
         "date": "2026-04-26",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -9279,7 +9349,7 @@
       "repo": "WeatherApp",
       "total_views": 5,
       "total_uniques": 1,
-      "last_updated": "2026-04-27T10:21:17.877018"
+      "last_updated": "2026-04-28T10:18:33.843009"
     },
     "timeline": [
       {
@@ -9949,6 +10019,11 @@
       },
       {
         "date": "2026-04-26",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-04-27",
         "views": 0,
         "uniques": 0
       }
