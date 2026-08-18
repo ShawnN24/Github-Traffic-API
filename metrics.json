@@ -2,9 +2,9 @@
   "AI-Resume-Parser": {
     "traffic": {
       "repo": "AI-Resume-Parser",
-      "total_views": 96,
-      "total_uniques": 34,
-      "last_updated": "2026-08-16T08:32:37.732679"
+      "total_views": 97,
+      "total_uniques": 35,
+      "last_updated": "2026-08-18T08:39:58.901831"
     },
     "timeline": [
       {
@@ -1376,6 +1376,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 1,
+        "uniques": 1
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -1384,7 +1394,7 @@
       "repo": "CaptionMate",
       "total_views": 81,
       "total_uniques": 38,
-      "last_updated": "2026-08-16T08:32:38.316583"
+      "last_updated": "2026-08-18T08:39:59.558818"
     },
     "timeline": [
       {
@@ -2746,6 +2756,16 @@
         "date": "2026-08-15",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -5159,7 +5179,7 @@
       "repo": "Github-Traffic-API",
       "total_views": 188,
       "total_uniques": 31,
-      "last_updated": "2026-08-16T08:32:39.875366"
+      "last_updated": "2026-08-18T08:40:01.416374"
     },
     "timeline": [
       {
@@ -6491,6 +6511,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -6499,7 +6529,7 @@
       "repo": "KIROHACKS2026",
       "total_views": 124,
       "total_uniques": 12,
-      "last_updated": "2026-08-16T08:32:40.391507"
+      "last_updated": "2026-08-18T08:40:02.125918"
     },
     "timeline": [
       {
@@ -7136,6 +7166,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -7144,7 +7184,7 @@
       "repo": "Neetcode_DSA-a-Day",
       "total_views": 129,
       "total_uniques": 35,
-      "last_updated": "2026-08-16T08:32:40.928307"
+      "last_updated": "2026-08-18T08:40:02.758304"
     },
     "timeline": [
       {
@@ -8526,6 +8566,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -9749,7 +9799,7 @@
       "repo": "PortFlow",
       "total_views": 451,
       "total_uniques": 91,
-      "last_updated": "2026-08-16T08:32:42.064723"
+      "last_updated": "2026-08-18T08:40:04.100819"
     },
     "timeline": [
       {
@@ -11216,6 +11266,16 @@
         "date": "2026-08-15",
         "views": 1,
         "uniques": 1
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -12479,7 +12539,7 @@
       "repo": "ShawnPortfolio",
       "total_views": 0,
       "total_uniques": 0,
-      "last_updated": "2026-08-16T08:32:43.100732"
+      "last_updated": "2026-08-18T08:40:05.312530"
     },
     "timeline": [
       {
@@ -13701,6 +13761,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -13709,7 +13779,7 @@
       "repo": "sunhacks2025",
       "total_views": 107,
       "total_uniques": 24,
-      "last_updated": "2026-08-16T08:32:43.657631"
+      "last_updated": "2026-08-18T08:40:05.928538"
     },
     "timeline": [
       {
@@ -14981,6 +15051,16 @@
         "date": "2026-08-15",
         "views": 0,
         "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
+        "views": 0,
+        "uniques": 0
       }
     ]
   },
@@ -16219,7 +16299,7 @@
       "repo": "trustmed-ai",
       "total_views": 323,
       "total_uniques": 16,
-      "last_updated": "2026-08-16T08:32:44.864583"
+      "last_updated": "2026-08-18T08:40:07.218079"
     },
     "timeline": [
       {
@@ -16914,6 +16994,16 @@
       },
       {
         "date": "2026-08-15",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0,
+        "uniques": 0
+      },
+      {
+        "date": "2026-08-17",
         "views": 0,
         "uniques": 0
       }
